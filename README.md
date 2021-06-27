@@ -19,3 +19,13 @@ Then, I inserted some values into RAM. LDR commands load values from RAM to regi
 
 ### RAM
 ![](https://abdussametkaci.github.io/Datapath_16bit/img/ram.PNG)
+
+Firstly, program counter is enabled and then, the clock signal is
+triggered. The command at the address indicated by the program
+counter is executed and the next command is passed.
+
+After all the commands in the program are
+executed, the data inside the registers are
+shown.
+
+![](https://abdussametkaci.github.io/Datapath_16bit/img/registers.PNG)
