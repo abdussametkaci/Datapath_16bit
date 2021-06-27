@@ -14,10 +14,10 @@ AND R4, R1, R2 = 0000001 001 010 100 -> 0x0254
 
 Then, I inserted some values into RAM. LDR commands load values from RAM to registers.
 
-### ROM
+## ROM
 ![](https://abdussametkaci.github.io/Datapath_16bit/img/rom.PNG)
 
-### RAM
+## RAM
 ![](https://abdussametkaci.github.io/Datapath_16bit/img/ram.PNG)
 
 Firstly, program counter is enabled and then, the clock signal is
@@ -29,3 +29,22 @@ executed, the data inside the registers are
 shown.
 
 ![](https://abdussametkaci.github.io/Datapath_16bit/img/registers.PNG)
+
+# Datapath Components
+## PC
+![](https://abdussametkaci.github.io/Datapath_16bit/img/pc.PNG)
+
+## ALU
+![](https://abdussametkaci.github.io/Datapath_16bit/img/alu.PNG)
+
+## Memory
+![](https://abdussametkaci.github.io/Datapath_16bit/img/mem.PNG)
+
+## Register File
+![](https://abdussametkaci.github.io/Datapath_16bit/img/register_file.PNG)
+
+## Control
+![](https://abdussametkaci.github.io/Datapath_16bit/img/control.PNG)
+
+## All Design
+![](https://abdussametkaci.github.io/Datapath_16bit/img/design.PNG)
